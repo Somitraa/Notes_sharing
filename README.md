@@ -30,19 +30,18 @@ A simple and user-friendly web application to create, manage, and share notes se
 
 ```bash
 git clone https://github.com/your-username/notes-sharing-app.git
+
 Navigate into the project folder:
 
-bash
-Copy
-Edit
-cd notes-sharing-app
-Open index.html in your browser directly, or use a local server like Live Server (VS Code extension).
+cd notes-sharing-app  
+---
+## Open index.html in your browser directly, or use a local server like Live Server (VS Code extension).
 
 
-
-Markdown support
+---
+## Markdown support
 
 Backend integration for persistent storage
-
-📄 License
+---
+## 📄 License
 This project is licensed under the MIT License.
