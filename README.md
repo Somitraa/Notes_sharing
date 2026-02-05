@@ -6,7 +6,7 @@ A simple and user-friendly web application to create, manage, and share notes se
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 - ✍️ Create and save personal notes
 - 🔗 Share notes via unique URLs
